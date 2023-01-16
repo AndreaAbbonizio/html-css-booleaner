@@ -29,3 +29,21 @@ h1{
 #tim {
     padding-left: 100px;
 }
+
+
+.info-photo{
+    margin: 0px;
+}
+
+table{
+    width:100% ;
+}
+
+th{
+    width: 70px;
+    background-color:rgb(6, 252, 252);
+}
+
+#color-table{
+    background-color: aquamarine;
+}
