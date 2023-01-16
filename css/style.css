@@ -7,6 +7,25 @@ body{
 }
 
 #logo-boolean{
-    width: 500px;
+    width: 200px;
     height: auto;
+    padding-top: 30px;
+}
+
+main{
+    background-color: aliceblue;
+}
+
+h1{
+    font-size: 48px;
+    padding-bottom: 0px;
+    margin-bottom: 2px;
+}
+
+.info {
+    color:rgb(126, 120, 120);
+}
+
+#tim {
+    padding-left: 100px;
 }
