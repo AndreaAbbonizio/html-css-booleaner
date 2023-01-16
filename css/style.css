@@ -1,0 +1,12 @@
+body{
+    background-image: url("/img/pattern.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(13, 198, 245);
+}
+
+#logo-boolean{
+    width: 500px;
+    height: auto;
+}
