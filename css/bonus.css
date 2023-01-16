@@ -4,6 +4,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-color: rgb(13, 198, 245);
+    margin: 0px;
 }
 
 #logo-boolean{
@@ -12,8 +13,10 @@ body{
     padding-top: 30px;
 }
 
-main, footer{
+main{
     background-color: aliceblue;
+    padding-left: 80px;
+    padding-right: 80px;
 }
 
 h1{
@@ -21,6 +24,7 @@ h1{
     padding-bottom: 0px;
     margin-bottom: 2px;
 }
+
 
 .info {
     color:rgb(126, 120, 120);
@@ -37,6 +41,7 @@ h1{
 
 table{
     width:100% ;
+    border-collapse: collapse;
 }
 
 th{
